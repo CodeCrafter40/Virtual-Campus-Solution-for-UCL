@@ -95,3 +95,16 @@ The deployment of the Virtual Campus Solution had significant positive impacts:
 - **Access Control:** Ensured secure access to the platform with role-based permissions and authentication mechanisms.
 - **Performance Metrics:** Tracked key performance indicators such as student success rates, faculty performance, and operational efficiency.
 - **Future-Proofing:** The inclusion of a hybrid mode ensured that the system developed was not just a temporary fix for the pandemic but a long-term solution that could accommodate varying teaching methodologies in the future.
+
+### 8: Sanpshots
+
+![Create_Timetable](https://github.com/user-attachments/assets/f1e0d2ae-0133-42b3-8cfa-de638cd21edd)
+![Admission_Decision](https://github.com/user-attachments/assets/4900d7ac-a545-4196-b80f-07acf0817576)
+![GradeBook_Setup](https://github.com/user-attachments/assets/11bbc01d-fecf-4b95-8d87-c1ea42fca24b)
+![Admission](https://github.com/user-attachments/assets/90fbdc9c-75a0-4119-9ab7-0f0f07bf84b1)
+![Virtual_Class](https://github.com/user-attachments/assets/1a58146d-574c-4a27-a90a-f138b631abca)
+![Tracking student engagement ](https://github.com/user-attachments/assets/68337f67-be7a-4306-b2c1-a065117d166b)
+![Student_Profile](https://github.com/user-attachments/assets/7fd79f80-c44d-4e8b-8292-9b4c7f6f02c0)
+
+
+
