@@ -60,7 +60,6 @@ Flexibility to combine virtual and physical classes for a future-proof learning 
 - **Frontend:** React
 - **Backend:** Spring Boot
 - **Database:** MySQL
-- **Mobile App:** Flutter
 
 #### Integrations
 
@@ -79,7 +78,6 @@ Exergy Systems developed a full-fledged, scalable, and flexible virtual campus s
 - **Frontend Development:** Utilized React to build responsive and intuitive user interfaces for students, teachers, and administrators.
 - **Backend Development:** Developed robust backend services using Java Spring Boot to handle various operations such as course management, enrollment processes, and user authentication.
 - **Database Management:** Managed the MySQL database to ensure efficient data storage and retrieval, maintaining data integrity and security.
-- **Mobile App Development:** Developed a Mobile App using Flutter.
 - **Integration Handling:** Integrated Zoom for video conferencing, Firebase for authentication, and SMS services for notifications, ensuring seamless interoperability of the system components.
 
 ### 7: The Impact Created
