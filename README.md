@@ -55,6 +55,17 @@ Flexibility to combine virtual and physical classes for a future-proof learning 
 
 ### 4: Integrations and Tech Stack
 
+![React](https://img.shields.io/badge/React-18.2.0-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-5.2-orange)
+![CSS](https://img.shields.io/badge/CSS-3.0-blue)
+![Java](https://img.shields.io/badge/Java-17.0.2-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.6.6-brightgreen)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.28-orange)
+![Firebase](https://img.shields.io/badge/Firebase-9.15.0-yellow)
+![Zoom](https://img.shields.io/badge/Zoom-5.15.0-blue)
+![Docker](https://img.shields.io/badge/Docker-20.10.12-lightblue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
+
 #### Technologies Used
 
 - **Frontend:** React
